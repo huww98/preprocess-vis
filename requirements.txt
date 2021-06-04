@@ -1,0 +1,4 @@
+--extra-index-url https://mirrors.scut-smil.cn/nvidia/compute/redist
+aiohttp
+nvidia-dali-cuda110
+pillow
